@@ -1,0 +1,56 @@
+[
+    {
+        "camioneta": {
+            "id": 1,
+            "nombre": "Tivoli",
+            "precio": 62900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-TIVOLI.jpg",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/tivoli-logo.svg"
+        }
+    },
+    {
+        "camioneta": {
+            "id": 2,
+            "nombre": "Tivoli XLV",
+            "precio": 65900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/tivoli-xlv-camioneta2.png",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/xlv-logo.svg"
+        }
+    },
+    {
+        "camioneta": {
+            "id": 3,
+            "nombre": "Korando",
+            "precio": 73900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/korando-new-style.jpg",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/korando-logo.svg"
+        }
+    },
+    {
+        "camioneta": {
+            "id": 4,
+            "nombre": "Actyon Sports",
+            "precio": 92900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-ACTYONSP.jpg",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/actyon-sports-logo.svg"
+        }
+    },
+    {
+        "camioneta": {
+            "id": 5,
+            "nombre": "Rodius",
+            "precio": 96900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-RODIUS.jpg",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rodius-logo.svg"
+        }
+    },
+    {
+        "camioneta": {
+            "id": 6,
+            "nombre": "Rexton G4",
+            "precio": 114900000,
+            "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/rexton-g4.jpg",
+            "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rextong4-logo.svg"
+        }
+    }
+]
