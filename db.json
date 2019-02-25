@@ -7,7 +7,17 @@
                 "nombre": "Tivoli",
                 "precio": 62900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-TIVOLI.jpg",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/tivoli-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/tivoli-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         },
         {
@@ -17,7 +27,17 @@
                 "nombre": "Tivoli XLV",
                 "precio": 65900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/tivoli-xlv-camioneta2.png",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/xlv-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/xlv-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         },
         {
@@ -27,7 +47,17 @@
                 "nombre": "Korando",
                 "precio": 73900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/korando-new-style.jpg",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/korando-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/korando-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         },
         {
@@ -37,7 +67,17 @@
                 "nombre": "Actyon Sports",
                 "precio": 92900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-ACTYONSP.jpg",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/actyon-sports-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/actyon-sports-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         },
         {
@@ -47,7 +87,17 @@
                 "nombre": "Rodius",
                 "precio": 96900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/FAMILIAS/SOLO-RODIUS.jpg",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rodius-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rodius-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         },
         {
@@ -57,7 +107,17 @@
                 "nombre": "Rexton G4",
                 "precio": 114900000,
                 "imagen": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/rexton-g4.jpg",
-                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rextong4-logo.svg"
+                "imagenLogo": "https://cdnprocessoft.s3.amazonaws.com/SITIOS/xGJ4XukfAJKAPdHEBn0PZd87ZD0tRng595yu2SHQgDM/logos/rextong4-logo.svg",
+                "motor": {
+                    "cilindrada": "1.597 CC",
+                    "noCilindros": "4 en línea",
+                    "combustible": "Gasolina"
+                },
+                "dimensiones": {
+                    "largoTotal": "4.440 mm",
+                    "anchoTotal": "1.798 mm",
+                    "altoTotal": "1.635 mm"
+                }
             }
         }
     ]
